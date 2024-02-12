@@ -1,0 +1,50 @@
+body {
+  font-family:  sans-serif;
+  text-align: center;  background-color: #f5f6f7;
+}
+p {
+  margin-top: -10px;
+}
+.header { background-color: #D2B48C;
+color: #696970;
+padding: 11px;
+border-bottom: 4px solid #A0522D;
+}
+#image {
+  height: auto;
+  max-width: 100%;
+  display: block;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+figcaption {
+  font-style: italic;
+  font-size: 12px;
+}
+h2 {
+  font-size: 17px;
+  font-family: sans-serif;
+} 
+section {
+  font-size: 14px;
+}  
+.bold {
+  font-weight: 700;
+}
+.content {
+  max-width: 600px;
+  margin: auto;
+  padding: 9px;
+  text-align: left;
+}
+.content2 {
+  padding-top: 18px;
+}
+.quote {
+  font-size: 12px;
+  font-style: italic;
+  padding: 10px;
+}
+a {
+  font-weight: bold;
+}
